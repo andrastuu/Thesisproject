@@ -22,5 +22,8 @@ while the ViT model was more efficient than the CNN.
 Experimental desing of my research project:
 <img width="639" alt="image" src="https://github.com/user-attachments/assets/711bed92-424d-4c25-a470-7cacd2ae0d58">
 
+Preview of original images and categories for classification:
+<img width="670" alt="image" src="https://github.com/user-attachments/assets/d6c1f716-1040-4b4e-8fa0-e003d503e0ca">
+
 Preview of the masks applied during this research: 
 ![image](https://github.com/user-attachments/assets/7b0f3a4f-e910-474e-a372-778f032e6813)
