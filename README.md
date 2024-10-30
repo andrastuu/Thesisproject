@@ -19,3 +19,8 @@ In the aspect of computational efficiency,
 the best preprocessing method was Supervised Wiener Deconvolution, 
 while the ViT model was more efficient than the CNN.
 
+Experimental desing of my research project:
+<img width="639" alt="image" src="https://github.com/user-attachments/assets/711bed92-424d-4c25-a470-7cacd2ae0d58">
+
+Preview of the masks applied during this research: 
+![image](https://github.com/user-attachments/assets/7b0f3a4f-e910-474e-a372-778f032e6813)
